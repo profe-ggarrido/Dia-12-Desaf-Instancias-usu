@@ -1,0 +1,6 @@
+Inicialmente hubo los siguientes detalles o excepciones:
+1.- la entrada 3 falta cerrar elemento de diccionario, o sea la llave derecha '}'
+2.- en la linea 6, de "Marj, falta abrir comillas dobles para la Clave 'email'
+3.- en la linea 8, de "Robena" faltan ambas comillas dobles para su genero " "
+
+Saludos, ojala esté correcto.
